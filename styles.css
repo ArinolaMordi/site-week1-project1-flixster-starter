@@ -57,6 +57,9 @@ padding: 9px;
   }
 .movie-card:hover {
 background-color: turquoise;
+transform: scale(1.06);
 padding: 20px;
 }
- 
+
+
+
