@@ -56,6 +56,10 @@ const getAndShowcaseMovies = async (searchTerm = "") => {
       movieCard.appendChild(movieRating);
       movieCard.appendChild(movieTitle);
 
+      movieCard.addEventListener("click", async () => {
+        displayDetails(movie)
+      });
+
       moviesGrid.appendChild(movieCard);
     });
 
@@ -80,3 +84,9 @@ window.addEventListener("load", (event) => {
   event.preventDefault();
   submitBtn.click(); // Trigger the submit button click event on initial load
 });
+
+
+function displayDetails(movie){
+  const Details = `Movie Details: ${movie.overview}\n\nMovie title: ${movie.title}`
+  alert(Details)
+}
