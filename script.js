@@ -20,6 +20,7 @@ loadMoreBtn.addEventListener("click", async () => {
   await getAndShowcaseMovies(searchTerm); // Call the API with the search term
 });
 
+
 const getAndShowcaseMovies = async (searchTerm = "") => {
   try {
     const API_KEY = "ecfcc9722bda2c1cd214647a67356e27";
