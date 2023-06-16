@@ -1,9 +1,58 @@
 
 .headline {
-  color: #F44336;
+  color: turquoise;
   text-align: center;
  } 
+ .headline1 {
+  color: turquoise;
+ }
 body{
-  background-color: rgb(56, 54, 54);
+  background-color: black;
+  color: white;
+}
+.movie-card{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.movie-card{
+  display: inline-block;
+  padding: 20px;
+}
+.movie-poster{
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 3px 5px 2px turquoise;
+}
+.Loadmorebtn {
+display: flex;
+ background-color: rgb(205, 255, 255);
+ padding: 20px;
+ justify-content: center;
+ align-items: center;
+}
+.movie-title {
+  width: 200px;
+  margin-top: 10px; 
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
+.submit1 {
+background-color: turquoise;
+border-radius: 5px;
+padding: 9px;
+}
+.textbox { 
+  padding: 9px;
+}
+.loadmore{
+  border-radius: 100px;
+}
+.clear1 {
+  background-color: turquoise;
+  border-radius: 5px;
+  padding: 9px;
+  }
+ 
