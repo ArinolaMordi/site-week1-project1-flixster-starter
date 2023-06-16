@@ -55,4 +55,8 @@ padding: 9px;
   border-radius: 5px;
   padding: 9px;
   }
+.movie-card:hover {
+background-color: turquoise;
+padding: 20px;
+}
  

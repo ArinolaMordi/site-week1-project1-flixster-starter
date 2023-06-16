@@ -79,4 +79,3 @@ window.addEventListener("load", (event) => {
   event.preventDefault();
   submitBtn.click(); // Trigger the submit button click event on initial load
 });
-
