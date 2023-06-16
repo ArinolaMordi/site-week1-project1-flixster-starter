@@ -48,15 +48,16 @@ Deployed Application (optional): [Flixster Deployed Site](https://arinolamordi.g
 
 - Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+1.Yes of course ! the topics helped me prepare for the assignment. 
+2. I felt no too prepared on how to fetch APIs and implement it into your code. 
 
 - If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
-  
-Add your response here
+   
+   I would have worked on the last optional feature which is the Video Trailer.
 
 - Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+For my Project I think everything went really fine and I really loved the theme I decided to go with. One thing that didn't go as planned that I wanted to implement was a slide show of trending movies. Something I would like to try next that my peer did is creating a very unique css styling 
 
 ### Open-source libraries used
 
@@ -64,4 +65,5 @@ Add your response here
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc. 
+I would like to give a special shout out to my instructors Diogo Botelho, Thomas wang and Tim Lee
