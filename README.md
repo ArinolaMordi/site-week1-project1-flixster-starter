@@ -55,11 +55,11 @@ Deployed Application (optional): [Flixster Deployed Site](https://arinolamordi.g
 - Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
 1.Yes of course ! the topics helped me prepare for the assignment. 
-2. I felt no too prepared on how to fetch APIs and implement it into your code. 
+2. I felt not too prepared on how to fetch APIs and implement it into my code. 
 
 - If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
    
-   I would have worked on the last optional feature which is the Video Trailer.
+   I would have worked on the last optional feature which is the Video Trailer and I would have made my code more efficient basically
 
 - Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
