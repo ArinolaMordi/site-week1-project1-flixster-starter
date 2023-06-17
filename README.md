@@ -40,7 +40,7 @@ Deployed Application (optional): [Flixster Deployed Site](https://arinolamordi.g
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, <div style="position: relative; padding-bottom: 64.94708994708994%; height: 0;"><iframe src="https://www.loom.com/embed/34ff7d1b7d984bccacd3fbca767e5ee0?sid=c0e7d794-6b64-42a0-a0e5-80f9e8f00aad" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+`TODO://` Add the embedded URL code to your animated app walkthrough below, 
 
 <a href="https://www.loom.com/share/34ff7d1b7d984bccacd3fbca767e5ee0">
     <p>Loom Message - 16 June 2023 - Watch Video</p>
