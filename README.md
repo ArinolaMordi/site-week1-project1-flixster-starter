@@ -47,6 +47,11 @@ Deployed Application (optional): [Flixster Deployed Site](https://arinolamordi.g
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/34ff7d1b7d984bccacd3fbca767e5ee0-with-play.gif">
   </a>
 
+  <a href="https://www.loom.com/share/34ff7d1b7d984bccacd3fbca767e5ee0">
+    <p>Loom Message - 16 June 2023 - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/34ff7d1b7d984bccacd3fbca767e5ee0-with-play.gif">
+  </a>
+
 ### Reflection
 
 - Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
